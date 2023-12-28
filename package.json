@@ -1,0 +1,25 @@
+{
+  "name": "pokedex",
+  "version": "1.0.0",
+  "description": "Consumir una API del servidor de pokemon",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KronoMatrix/pokedex.git"
+  },
+  "keywords": [
+    "pokemon",
+    "api",
+    "servidor",
+    "webapp"
+  ],
+  "author": "Erick Jimenez Rubi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KronoMatrix/pokedex/issues"
+  },
+  "homepage": "https://github.com/KronoMatrix/pokedex#readme"
+}
